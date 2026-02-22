@@ -29,7 +29,7 @@ Control your spaceship, shoot moving targets, and survive as long as you can.
 space-game/
 │
 ├── main.py
-├── assets/
+├── static/
 │   ├── bg1.png
 │   ├── start_bg.jpg
 │   ├── spaceship.png
@@ -68,9 +68,9 @@ python main.py
 🖼️ Preview
 
 <p align="center">
-  <img src="assets/menu_ss.jpg" width="300"><br>
-  <img src="assets/game_ss.jpg" width="300"><br>
-  <img src="assets/exit_ss.jpg" width="300">
+  <img src="assets/menu_ss.jpg" width="250">
+  <img src="assets/game_ss.jpg" width="250">
+  <img src="assets/exit_ss.jpg" width="250">
 </p>
 
 ---
