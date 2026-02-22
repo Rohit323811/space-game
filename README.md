@@ -67,7 +67,11 @@ python main.py
 
 🖼️ Preview
 
-Add a screenshot of your game here
+<p align="center">
+  <img src="assets/menu_ss.jpg" width="300"><br>
+  <img src="assets/game_ss.jpg" width="300"><br>
+  <img src="assets/exit_ss.jpg" width="300">
+</p>
 
 ---
 
