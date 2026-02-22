@@ -68,9 +68,9 @@ python main.py
 🖼️ Preview
 
 <p align="center">
-  <img src="/assets/menu_ss.jpg" width="250">
-  <img src="/assets/game_ss.jpg" width="250">
-  <img src="/assets/exit_ss.jpg" width="250">
+  <img src="assets/menu_ss.jpg" width="250">
+  <img src="assets/game_ss.jpg" width="250">
+  <img src="assets/exit_ss.jpg" width="250">
 </p>
 
 ---
